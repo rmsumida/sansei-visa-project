@@ -62,6 +62,23 @@ Commit message: "Session [NNN]: [summary]"
 
 The user will paste this prompt into Claude Code for execution.
 
+## Lineage Summary
+The application is based on the Sumida line:
+- **Issei:** Masato Wayne Sumida (墨田 政人) — born Etajima-mura, Aki-gun, Hiroshima-ken (~1902–1903). Mother: Take Sumida.
+- **Nisei:** Paul Morihiko Sumida — son of Masato
+- **Sansei:** Ryan Masato Sumida — son of Paul (APPLICANT)
+- **Backup:** Yakura line (maternal, Tottori/Yonago) — hot-standby only, activate if Sumida Koseki fails.
+
+## Phases
+1. **Lineage Evidence Retrieval** — Assemble certified proof of descent (A-File, birth/death certs, Koseki)
+2. **COE Application** — Compile and submit Certificate of Eligibility via proxy in Japan
+3. **Visa Activation Trip** — Single 5–7 day trip: Zairyu Card → address registration → Multiple Re-entry Permit → Tenshutsu-todoke → depart
+4. **Visa Maintenance** — Monitor re-entry permit and visa renewal from Texas
+
+## Key Contacts
+- **Scrivener:** Koichi Muro, MURO Co., Ltd. — handles Koseki retrieval from Kure City (~¥64,000)
+- **Backup:** Cousin holds Yakura lineage documents
+
 ## Project Rules
 - All advice must account for maintaining full-time Texas residency
 - Project deadline: 2027-03-26 (1 year from start)
@@ -69,3 +86,7 @@ The user will paste this prompt into Claude Code for execution.
 - All legal guidance is informational — not legal advice; recommend consulting an immigration attorney for binding decisions
 - Track all deadlines and expiration dates explicitly
 - When discussing documents, always note whether originals, certified copies, or translations are required
+- Yakura line is hot-standby only — do NOT pursue unless the Sumida line fails
+- Tenshutsu-todoke MUST be filed before departing Japan — non-negotiable (prevents NHI/pension liability)
+- COE expires 3 months after issuance — flag this deadline when COE is received
+- Multiple Re-entry Permit (5-year) is required — do NOT rely on the 1-year Special Re-entry Permit

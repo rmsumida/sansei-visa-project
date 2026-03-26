@@ -62,3 +62,9 @@ When the user says **"Shutdown prompt"**, Claude Code MUST:
 - Visa category: Long-Term Resident Visa (Sansei / 3rd-generation Japanese descent)
 - All legal guidance is informational — not legal advice; consult an immigration attorney for binding decisions
 - Track all deadlines and expiration dates explicitly in action items
+- Yakura (maternal) lineage is hot-standby only — do NOT pursue unless the Sumida line fails at Koseki retrieval
+- Tenshutsu-todoke (Moving Out Notice) MUST be filed before departing Japan on the activation trip — non-negotiable
+- COE must be used within 3 months of issuance — flag this deadline prominently when COE is received
+- The Multiple Re-entry Permit (5-year) is required — do NOT rely on the 1-year Special Re-entry Permit for remote residency
+- When discussing documents, always note whether originals, certified copies, or translations are required
+- Old project files in `documents/old-project/` are reference material — the governance files are the authoritative source
