@@ -56,12 +56,16 @@ Ryan Masato Sumida (Sansei — son of Paul) → APPLICANT
 ## Document Inventory
 | Document | Purpose | Status | Notes |
 |----------|---------|--------|-------|
-| Ryan's birth certificate (certified) | Proves Ryan is son of Paul | NOT OBTAINED | Order from vital records (state TBD) |
-| Paul's birth certificate (certified) | Proves Paul is son of Masato | NOT OBTAINED | Likely Hawaii vital records |
-| Masato's death certificate (certified) | Closes the Issei anchor identity | NOT OBTAINED | State TBD |
-| National Archives A-File | Contains Banchi (lot number) for Etajima-mura | PENDING | Federal request to NARA submitted |
+| Ryan's birth certificate (certified) | Proves Ryan is son of Paul | ✅ OBTAINED | `documents/birth-certificates/` |
+| Paul's birth certificate (certified) | Proves Paul is son of Masato | ✅ OBTAINED | `documents/birth-certificates/` |
+| Masato's death certificate (certified) | Closes the Issei anchor identity | ✅ OBTAINED | `documents/death-certificates/` |
+| National Archives A-File | Contains Banchi (lot number) for Etajima-mura | ✅ OBTAINED | `documents/a-file/A4329588.pdf` |
 | Koseki Tohon (戸籍謄本) | Official Japanese family register proving lineage | BLOCKED | Requires Banchi + descent docs → MURO Co. retrieves |
 | US Passport | Required for activation trip | NEEDS VERIFICATION | Confirm expiration provides adequate buffer |
+| Immigration passenger list | Historical evidence of Masato's arrival | ✅ ON FILE | `documents/immigration-records/` |
+| California draft registration | Historical identity doc for Masato | ✅ ON FILE | `documents/immigration-records/` |
+| Sumida Kanji photo | Confirms kanji for Sumida family name | ✅ ON FILE | `documents/immigration-records/` |
+| Wartime relocation letter | Historical context for Masato's wartime record | ✅ ON FILE | `documents/immigration-records/` |
 
 ## Risk Register
 | Risk | Impact | Likelihood | Mitigation |
