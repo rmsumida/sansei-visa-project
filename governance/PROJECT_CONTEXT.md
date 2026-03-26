@@ -5,7 +5,7 @@
 ## Summary
 Ryan Masato Sumida is pursuing a Japanese Long-Term Resident Visa based on 3rd-generation (Sansei) descent through the Sumida lineage. The project covers the full lifecycle: lineage evidence retrieval, COE application, visa activation trip, and ongoing maintenance — all while Ryan remains a full-time resident of Texas.
 
-**Current Phase:** Phase 1 — Lineage Evidence Retrieval (BLOCKED on A-File and certified certificates)
+**Current Phase:** Phase 1 — Lineage Evidence Retrieval (all certificates obtained; A-File received but NO Banchi found; next step: contact MURO Co.)
 
 ## Locked Decisions
 - **DEC-001:** Use multi-session governance framework (2026-03-26)
@@ -35,15 +35,15 @@ Ryan Masato Sumida (Sansei — son of Paul) → APPLICANT
 ## Financial Position
 | Item | Amount | Notes |
 |------|--------|-------|
-| MURO Co. Koseki retrieval | ~¥64,000 (~$427 USD) | Scrivener fee, paused pending prerequisites |
-| Certified certificates | TBD | Vital records fees for 3 certificates |
+| MURO Co. Koseki retrieval | ~¥64,000 (~$427 USD) | Estimate on file in `budget/`. Paused pending contact re: no-Banchi strategy. |
+| Certified certificates | TBD | All 3 obtained and on file |
 | COE application | TBD | Filing fees + proxy submitter costs |
 | Activation trip | TBD | Flights, lodging, transit for 5–7 days in Japan |
 
 ## Open Issues
-1. **A-File status unknown** — NARA request submitted but current processing status unconfirmed. Timeline unpredictable (weeks to months).
-2. **Certified certificates not ordered** — Ryan's birth cert, Paul's birth cert, Masato's death cert. Can be ordered in parallel with A-File.
-3. **Vital records offices unidentified** — Need to determine which state/county handles each certificate.
+1. **No Banchi in A-File** — A-File (A4329588) reviewed in full. Most specific Japanese address is "Akizukimura, Akigun, Hiroshimaken" (pg 16) — village level only, no lot number. Must discuss alternative Koseki lookup with MURO Co.
+2. **Mother's name discrepancy** — Lineage log says "Take Sumida" but A-File pg 16 reads "Kite Sumida." Possible handwriting ambiguity (K vs T) or transliteration difference. Clarify with MURO Co.
+3. **DOB discrepancy** — A-File pg 2 says Oct 13, 1903; pg 18 says Oct 13, 1902. Minor but should be noted for MURO Co.
 4. **MURO Co. COE capability unknown** — Does the scrivener handle COE submissions, or is a separate gyoseishoshi (immigration lawyer) needed?
 
 ## Key Contacts
@@ -59,8 +59,9 @@ Ryan Masato Sumida (Sansei — son of Paul) → APPLICANT
 | Ryan's birth certificate (certified) | Proves Ryan is son of Paul | ✅ OBTAINED | `documents/birth-certificates/` |
 | Paul's birth certificate (certified) | Proves Paul is son of Masato | ✅ OBTAINED | `documents/birth-certificates/` |
 | Masato's death certificate (certified) | Closes the Issei anchor identity | ✅ OBTAINED | `documents/death-certificates/` |
-| National Archives A-File | Contains Banchi (lot number) for Etajima-mura | ✅ OBTAINED | `documents/a-file/A4329588.pdf` |
-| Koseki Tohon (戸籍謄本) | Official Japanese family register proving lineage | BLOCKED | Requires Banchi + descent docs → MURO Co. retrieves |
+| National Archives A-File | Identity evidence for Masato | ✅ OBTAINED | `documents/a-file/A4329588.pdf` — NO Banchi found; contains name, DOB, mother, village, ship |
+| MURO Co. cost estimate | Scrivener fee estimate | ✅ ON FILE | `budget/` |
+| Koseki Tohon (戸籍謄本) | Official Japanese family register proving lineage | BLOCKED | Requires MURO Co. to attempt retrieval without Banchi |
 | US Passport | Required for activation trip | NEEDS VERIFICATION | Confirm expiration provides adequate buffer |
 | Immigration passenger list | Historical evidence of Masato's arrival | ✅ ON FILE | `documents/immigration-records/` |
 | California draft registration | Historical identity doc for Masato | ✅ ON FILE | `documents/immigration-records/` |
@@ -70,7 +71,7 @@ Ryan Masato Sumida (Sansei — son of Paul) → APPLICANT
 ## Risk Register
 | Risk | Impact | Likelihood | Mitigation |
 |------|--------|------------|------------|
-| A-File returns without Banchi | HIGH — Blocks Koseki retrieval | MEDIUM | Escalate to MURO Co. for alternative municipal research |
+| A-File has no Banchi (REALIZED) | HIGH — Complicates Koseki retrieval | N/A — OCCURRED | Contact MURO Co. with all available identity data (name, DOB, mother, village, ship). Scrivener may be able to locate Koseki via name + village alone. If not, escalate to alternative municipal research strategies. |
 | Koseki does not confirm lineage | CRITICAL — Blocks entire project | LOW | Activate Yakura backup line immediately |
 | COE processing exceeds 3 months | MEDIUM — Delays activation trip | LOW | Submit early; no workaround for government processing |
 | COE expires before activation trip | HIGH — Must re-apply | LOW | Book trip immediately upon COE receipt. Buffer 1 month min. |
