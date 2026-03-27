@@ -23,7 +23,7 @@
 | ~~2~~ | ~~Obtain certified copy — Ryan's birth certificate~~ | 🔴 | Ryan | ✅ DONE | — | Certified copy on file: `documents/birth-certificates/` |
 | ~~3~~ | ~~Obtain certified copy — Paul Morihiko Sumida's birth certificate~~ | 🔴 | Ryan | ✅ DONE | — | Certified copy on file: `documents/birth-certificates/` |
 | ~~4~~ | ~~Obtain certified copy — Masato Wayne Sumida's death certificate~~ | 🔴 | Ryan | ✅ DONE | — | Certified copy on file: `documents/death-certificates/` |
-| 5 | Contact MURO Co. to discuss Koseki retrieval without Banchi | 🔴 | Ryan | READY | — | A-File confirmed: NO Banchi found. Provide MURO Co. with available identity data (name, DOB ~1902–1903, mother's name, Akizukimura/Etajima-mura, ship Atsuta Maru 1918) and certified descent docs. Ask if retrieval can proceed without lot number. |
+| 5 | Contact MURO Co. to discuss Koseki retrieval without Banchi | 🔴 | Ryan | READY | — | A-File: NO Banchi. Ship manifest confirms mother: Take Sumida, Etajima-mura. A-File lists "Kite Sumida" (possible stepmother). Provide MURO Co. with: name, DOB ~1902–1903, mother Take, possible stepmother Kite/Kito, Etajima-mura/Aki-gun/Hiroshima-ken, ship Atsuta Maru 1918, certified descent docs. Ask if retrieval can proceed without lot number. |
 | 6 | MURO Co. retrieves Koseki Tohon from Kure City | 🟡 | Koichi Muro | BLOCKED | #5 | Estimate on file: `budget/`. Scrivener handles municipal interaction. May need alternative lookup strategy without Banchi. |
 | 7 | Verify Koseki confirms unbroken Sumida lineage | 🟡 | Ryan | BLOCKED | #6 | If Koseki is incomplete, evaluate Yakura backup line. |
 

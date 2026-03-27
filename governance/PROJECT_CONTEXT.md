@@ -20,7 +20,8 @@ Ryan Masato Sumida is pursuing a Japanese Long-Term Resident Visa based on 3rd-g
 
 ```
 Masato Wayne Sumida (Issei — born Etajima-mura, Aki-gun, Hiroshima-ken)
-  Kanji: 墨田 政人 | DOB: ~1902–1903 | Mother: Take Sumida
+  Kanji: 墨田 政人 | DOB: ~1902–1903 | Mother: Take Sumida (confirmed via ship manifest)
+  Possible stepmother: Kite/Kito Sumida (per A-File pg 16)
   Modern municipality: Kure City, Hiroshima Prefecture
         │
         ▼
@@ -42,7 +43,7 @@ Ryan Masato Sumida (Sansei — son of Paul) → APPLICANT
 
 ## Open Issues
 1. **No Banchi in A-File** — A-File (A4329588) reviewed in full. Most specific Japanese address is "Akizukimura, Akigun, Hiroshimaken" (pg 16) — village level only, no lot number. Must discuss alternative Koseki lookup with MURO Co.
-2. **Mother's name discrepancy** — Lineage log says "Take Sumida" but A-File pg 16 reads "Kite Sumida." Possible handwriting ambiguity (K vs T) or transliteration difference. Clarify with MURO Co.
+2. **Mother's name resolved** — Ship manifest (row 20, col 12) confirms mother is **Take Sumida** at Etajima-mura. A-File pg 16 lists "Kite Sumida" — likely a stepmother or handwriting misread. Raise both names with MURO Co. as additional family context for Koseki search.
 3. **DOB discrepancy** — A-File pg 2 says Oct 13, 1903; pg 18 says Oct 13, 1902. Minor but should be noted for MURO Co.
 4. **MURO Co. COE capability unknown** — Does the scrivener handle COE submissions, or is a separate gyoseishoshi (immigration lawyer) needed?
 
