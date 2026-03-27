@@ -63,7 +63,7 @@ Ryan Masato Sumida (Sansei — son of Paul) → APPLICANT
 | National Archives A-File | Identity evidence for Masato | ✅ OBTAINED | `documents/a-file/A4329588.pdf` — NO Banchi found; contains name, DOB, mother, village, ship |
 | MURO Co. cost estimate | Scrivener fee estimate | ✅ ON FILE | `budget/` |
 | Koseki Tohon (戸籍謄本) | Official Japanese family register proving lineage | BLOCKED | Requires MURO Co. to attempt retrieval without Banchi |
-| US Passport | Required for activation trip | NEEDS VERIFICATION | Confirm expiration provides adequate buffer |
+| US Passport | Required for activation trip | RENEWAL IN PROGRESS | Expires 2026-12-06 — insufficient buffer. Renewal application week of 2026-03-30. |
 | Immigration passenger list | Historical evidence of Masato's arrival | ✅ ON FILE | `documents/immigration-records/` |
 | California draft registration | Historical identity doc for Masato | ✅ ON FILE | `documents/immigration-records/` |
 | Sumida Kanji photo | Confirms kanji for Sumida family name | ✅ ON FILE | `documents/immigration-records/` |

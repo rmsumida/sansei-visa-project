@@ -5,11 +5,11 @@
 ## Summary
 | Priority | Open | Closed |
 |----------|------|--------|
-| 🔴 Critical | 1 | 4 |
+| 🔴 Critical | 2 | 4 |
 | 🟡 High | 5 | 0 |
 | 🟢 Normal | 8 | 0 |
 | ⚪ Low | 3 | 0 |
-| **Total** | **17** | **4** |
+| **Total** | **18** | **4** |
 
 ---
 
@@ -26,6 +26,7 @@
 | 5 | Contact MURO Co. to discuss Koseki retrieval without Banchi | 🔴 | Ryan | WAITING | — | Email sent 2026-03-26. Provided: all 3 certified certs ready, A-File identity data, both mother names (Take/Kite), asked if retrieval can proceed without Banchi. Awaiting Muro's response. |
 | 6 | MURO Co. retrieves Koseki Tohon from Kure City | 🟡 | Koichi Muro | BLOCKED | #5 | Estimate on file: `budget/`. Scrivener handles municipal interaction. May need alternative lookup strategy without Banchi. |
 | 7 | Verify Koseki confirms unbroken Sumida lineage | 🟡 | Ryan | BLOCKED | #6 | If Koseki is incomplete, evaluate Yakura backup line. |
+| 21 | Renew US passport (expires 2026-12-06) | 🔴 | Ryan | IN PROGRESS | — | Applying week of 2026-03-30. Current passport insufficient buffer for activation trip. |
 
 ### Phase 2 — COE Application
 
