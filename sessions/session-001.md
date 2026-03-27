@@ -42,12 +42,19 @@ Project initialization, old project migration, document intake, A-File forensic 
 - #5: Upgraded to critical, reframed for no-Banchi scenario, status → WAITING (email sent 2026-03-26)
 - #6: Updated to note alternative lookup strategy may be needed
 
+## Action Items Created (post-close-out)
+- #21: Renew US passport — expires 2026-12-06, insufficient buffer for activation trip. Applying week of 2026-03-30.
+
 ## Blockers
 - **MURO Co. response pending** — Cannot proceed with Koseki retrieval (#6) until Muro confirms whether he can work without the Banchi
+
+## Decisions Deferred
+- COE proxy submitter research (#10): will ask MURO Co. when he responds
+- Visa renewal research (#20): deferred until after Phase 1
 
 ## Next Session Should
 - Check for MURO Co. response
 - If Muro responds positively: arrange to send certified documents and A-File
 - If Muro cannot proceed without Banchi: research alternative strategies (direct municipal inquiry, alternative scriveners, Yakura line activation)
-- Verify US passport expiration date
+- Confirm passport renewal application submitted
 - Ask MURO Co. about COE submission capability (open issue #4)
