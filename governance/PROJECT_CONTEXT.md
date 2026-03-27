@@ -5,7 +5,7 @@
 ## Summary
 Ryan Masato Sumida is pursuing a Japanese Long-Term Resident Visa based on 3rd-generation (Sansei) descent through the Sumida lineage. The project covers the full lifecycle: lineage evidence retrieval, COE application, visa activation trip, and ongoing maintenance — all while Ryan remains a full-time resident of Texas.
 
-**Current Phase:** Phase 1 — Lineage Evidence Retrieval (all certificates obtained; A-File received but NO Banchi found; next step: contact MURO Co.)
+**Current Phase:** Phase 1 — Lineage Evidence Retrieval (all certificates + A-File obtained; no Banchi found; follow-up email sent to MURO Co. 2026-03-26, awaiting response)
 
 ## Locked Decisions
 - **DEC-001:** Use multi-session governance framework (2026-03-26)
@@ -42,16 +42,16 @@ Ryan Masato Sumida (Sansei — son of Paul) → APPLICANT
 | Activation trip | TBD | Flights, lodging, transit for 5–7 days in Japan |
 
 ## Open Issues
-1. **No Banchi in A-File** — A-File (A4329588) reviewed in full. Most specific Japanese address is "Akizukimura, Akigun, Hiroshimaken" (pg 16) — village level only, no lot number. Must discuss alternative Koseki lookup with MURO Co.
-2. **Mother's name resolved** — Ship manifest (row 20, col 12) confirms mother is **Take Sumida** at Etajima-mura. A-File pg 16 lists "Kite Sumida" — likely a stepmother or handwriting misread. Raise both names with MURO Co. as additional family context for Koseki search.
-3. **DOB discrepancy** — A-File pg 2 says Oct 13, 1903; pg 18 says Oct 13, 1902. Minor but should be noted for MURO Co.
-4. **MURO Co. COE capability unknown** — Does the scrivener handle COE submissions, or is a separate gyoseishoshi (immigration lawyer) needed?
+1. **No Banchi in A-File** — A-File (A4329588) reviewed in full. Most specific Japanese address is "Akizukimura, Akigun, Hiroshimaken" (pg 16) — village level only, no lot number. Follow-up email sent to MURO Co. 2026-03-26 asking if retrieval can proceed without it.
+2. **Mother's name resolved** — Ship manifest (row 20, col 12) confirms mother is **Take Sumida** at Etajima-mura. A-File pg 16 lists "Kite Sumida" — likely a stepmother or handwriting misread. Both names provided to MURO Co. in follow-up email.
+3. **DOB discrepancy** — A-File pg 2 says Oct 13, 1903; pg 18 says Oct 13, 1902. Noted in follow-up to MURO Co.
+4. **MURO Co. COE capability unknown** — Does the scrivener handle COE submissions, or is a separate gyoseishoshi (immigration lawyer) needed? Ask when Muro responds.
 
 ## Key Contacts
 | Role | Name | Notes |
 |------|------|-------|
 | Applicant | Ryan Masato Sumida | Sansei, Texas resident |
-| Scrivener | Koichi Muro (MURO Co., Ltd.) | Engaged, paused pending prerequisites. Handles Koseki retrieval from Kure City. |
+| Scrivener | Koichi Muro (MURO Co., Ltd.) | Follow-up email sent 2026-03-26 with all docs + A-File data. Awaiting response re: no-Banchi strategy. Email: muro@e-kui.jp |
 | Backup contact | Cousin (Yakura line) | Holds Yakura lineage documentation. Contact only if Sumida line fails. |
 
 ## Document Inventory

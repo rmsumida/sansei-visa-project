@@ -1,16 +1,29 @@
 # Session 001 — 2026-03-26
 
 ## Summary
-Project initialization and migration from old project files. Scaffolded the new governance structure, imported all existing research and task tracking from the prior project into the new framework, and pushed to GitHub.
+Project initialization, old project migration, document intake, A-File forensic review, ship manifest analysis, and follow-up email to MURO Co. Scaffolded the full governance framework, uploaded all available evidence artifacts, confirmed the A-File contains no Banchi, resolved the mother's name discrepancy, and sent a detailed follow-up to the scrivener asking if Koseki retrieval can proceed without the lot number.
 
 ## Accomplishments
-- Created project directory structure and all governance files
-- Imported lineage research: Sumida line (Issei → Nisei → Sansei chain), Yakura backup line
-- Imported 4-phase task structure with 20 action items across all phases
-- Documented 5 locked decisions from prior project work
-- Captured risk register, document inventory, key contacts, and financial position
-- Documented the full visa activation protocol (5-step sequence)
+- Scaffolded project repo with full governance structure (CLAUDE.md, PROJECT_CONTEXT, ACTION_ITEMS, DECISIONS, SESSION_INDEX, TRIGGER_COMMANDS, PROJECT_INSTRUCTIONS)
+- Imported old project files (VISA_PROJECT, LINEAGE_LOG, VISA_ACTIVATION_PROTOCOL, SESSION_LOG) as reference material
+- Created organized document folder structure: birth-certificates, death-certificates, a-file, immigration-records, koseki, muro-co
+- Uploaded all available evidence artifacts:
+  - Ryan's birth certificate (certified)
+  - Paul Morihiko Sumida's birth certificate (certified)
+  - Wayne Masato Sumida's death certificate (certified)
+  - National Archives A-File (A4329588, 19 pages)
+  - Immigration passenger list (S.S. Atsuta Maru, 1918)
+  - California draft registration
+  - Sumida Kanji photo
+  - Wartime relocation letter
+  - MURO Co. cost estimate
+- Reviewed all 19 pages of A-File — confirmed NO Banchi (lot number) present
+- Key A-File findings: DOB Oct 13 1902/1903, mother listed as "Kite Sumida" at Akizukimura, wife Hisako, son Morihiko, ship Atsuta Maru (NYK Line) arrived Seattle Aug 1918, Alien Reg. No. 4329588, internment at Poston AZ
+- Analyzed ship manifest row 20 col 12 — confirmed mother's name is **Take Sumida** (not Kite); Kite likely stepmother
+- Drafted and sent follow-up email to Koichi Muro (MURO Co.) providing all certified docs, A-File identity data, both mother names, asking if retrieval can proceed without Banchi
+- MURO Co. email correspondence saved to repo
 - Initialized git repo and pushed to GitHub (rmsumida/sansei-visa-project)
+- Closed action items #1–#4 (all critical Phase 1 document collection items)
 
 ## Decisions Made
 - DEC-001: Use multi-session governance framework
@@ -19,16 +32,22 @@ Project initialization and migration from old project files. Scaffolded the new 
 - DEC-004: MURO Co. as primary scrivener
 - DEC-005: File Tenshutsu-todoke during activation trip
 
-## Action Items Created
-- 20 items across 4 phases (see ACTION_ITEMS.md)
-- 4 critical items in Phase 1: Confirm A-File status, obtain 3 certified certificates
+## Action Items Closed
+- #1: A-File received from NARA
+- #2: Ryan's birth certificate obtained (certified)
+- #3: Paul's birth certificate obtained (certified)
+- #4: Masato's death certificate obtained (certified)
 
-## Prior Work Preserved
-- Old project files retained in `documents/old-project/` for reference
-- SESSION-000 from old project: initial decomposition from Project Hachigen, structure defined, scrivener engaged
+## Action Items Updated
+- #5: Upgraded to critical, reframed for no-Banchi scenario, status → WAITING (email sent 2026-03-26)
+- #6: Updated to note alternative lookup strategy may be needed
+
+## Blockers
+- **MURO Co. response pending** — Cannot proceed with Koseki retrieval (#6) until Muro confirms whether he can work without the Banchi
 
 ## Next Session Should
-- Confirm A-File submission status with NARA
-- Identify the correct vital records offices for all 3 certificates
-- Begin ordering certified certificates in parallel
+- Check for MURO Co. response
+- If Muro responds positively: arrange to send certified documents and A-File
+- If Muro cannot proceed without Banchi: research alternative strategies (direct municipal inquiry, alternative scriveners, Yakura line activation)
 - Verify US passport expiration date
+- Ask MURO Co. about COE submission capability (open issue #4)
